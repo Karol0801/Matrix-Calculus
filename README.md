@@ -1,7 +1,7 @@
-# Matrix-Calculus-and-Multivariate-Statistics
+# Matrix Calculus and Multivariate Statistics
 
 This repository hosts programs developed for the "Matrix Calculus and Multivariate Statistics" course at AGH University during the academic year 2023/2024. 
-The programms are written along with paula078.
+The programms are written along with <a href="https://github.com/paula078">paula078</a>.
 
 ### Program 1: Matrix Multiplication Methods Implementation
 
