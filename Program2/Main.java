@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         // 3.
-       gaussianElimination(9, false);
+        gaussianElimination(9, false);
 
         // 6.
         gaussianElimination(9, true);
