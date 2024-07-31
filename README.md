@@ -32,3 +32,9 @@ This program aims to implement efficient solutions for solving systems of linear
 
 - Gaussian elimination (with and without pivoting)
 - LU factorization (with and without pivoting)
+
+### Program 3: Matrix Norms and Singular Value Decomposition
+
+Objective:
+
+This program calculates various matrix norms, matrix condition numbers, and also performs singular value decomposition:
